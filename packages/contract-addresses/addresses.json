@@ -68,6 +68,29 @@
             "positiveSlippageFeeTransformer": "0x6ff35e8cbaf56d8a8f6bf9963b902a4576243030"
         }
     },
+    "122": {
+        "zrxToken": "0x0000000000000000000000000000000000000000",
+        "etherToken": "0x0be9e53fd7edac9f859882afdda116645287c629",
+        "zeroExGovernor": "0x0000000000000000000000000000000000000000",
+        "zrxVault": "0x0000000000000000000000000000000000000000",
+        "staking": "0x0000000000000000000000000000000000000000",
+        "stakingProxy": "0x0000000000000000000000000000000000000000",
+        "erc20BridgeProxy": "0x0000000000000000000000000000000000000000",
+        "erc20BridgeSampler": "0x5a6d95163efb7e7c764cf3b48d1bc5aab184f38e",
+        "exchangeProxyGovernor": "0x560215a59247d47bd949786de7a7561bcc1e43ed",
+        "exchangeProxy": "0xdef1c0ded9bec7f1a1670819833240f027b25eff",
+        "exchangeProxyTransformerDeployer": "0x560215A59247d47Bd949786DE7A7561bcc1E43ED",
+        "exchangeProxyFlashWallet": "0xdb6f1920a889355780af7570773609bd8cb1f498",
+        "exchangeProxyLiquidityProviderSandbox": "0xde7b2747624a647600fdb349184d0448ab954929",
+        "zrxTreasury": "0x0000000000000000000000000000000000000000",
+        "transformers": {
+            "wethTransformer": "0x7c15ee637d02edcb68993bd5357f3a2fb41f2fc7",
+            "payTakerTransformer": "0xe810d682663846db4a2e37fa410e980bf90ff7d2",
+            "affiliateFeeTransformer": "0xbcb6361f5aefa5e0aaa26fc89ecc135095d145f9",
+            "fillQuoteTransformer": "0x0d9834648dfca57d82eeb335ad810ec516055245",
+            "positiveSlippageFeeTransformer": "0x0d9834648dfca57d82eeb335ad810ec516055245"
+        }
+    },
     "1337": {
         "zrxToken": "0x871dd7c2b4b25e1aa18728e9d5f2af4c4e431f5c",
         "etherToken": "0x0b1ba0af832d7c05fd64161e0db78e85978e8082",
